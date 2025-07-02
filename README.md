@@ -1,7 +1,7 @@
 🌿 Greenden Project – Tailwind CSS Based Responsive Website
 This is a responsive website project named "Greenden" built using Tailwind CSS — a modern utility-first CSS framework.
 
-Greenden weiste: 
+Greenden weiste: https://koushika-raju.github.io/Greenden-tailwind/index.html
 
 The project showcases a clean and structured frontend for a fictional plant-selling or eco-themed website. It is designed with mobile-first responsiveness, ensuring a smooth user experience across all screen sizes — from mobile phones to desktops.
 
